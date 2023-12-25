@@ -81,7 +81,7 @@ Shortcuts4:
         Lowercase: Ctrl + Alt + i
 
         Uppercase: Ctrl + Shift + Alt + o
-        Lowercase: Ctrl + Alt + o,
+        Lowercase: Ctrl + Alt + o
         
         Uppercase: Ctrl + Shift + Alt + u
         Lowercase: Ctrl + Alt + u
