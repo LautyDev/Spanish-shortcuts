@@ -47,6 +47,52 @@ $ git clone https://github.com/LautyDev/Spanish-shortcuts
 
 - [Version 1.0.0](https://github.com/LautyDev/Spanish-shortcuts/releases/download/App/Spanish.shortcuts.exe)
 
+## :video_game: Shortcuts
+
+### Shortcuts for the letter "Ñ" and "ñ"
+
+**Detects if the caps lock is active. With the caps lock enabled it does the opposite (instead of capital letters it is lowercase and vice versa)**
+
+- **Uppercase:** Ctrl + Shift + Alt + n
+- **Lowercase:** Ctrl + Alt + n
+
+### Shortcuts for the symbol "¿"
+
+- Ctrl + Alt + /
+
+### Shortcuts for the symbol "¡"
+
+- Ctrl + Alt + 1
+
+### Shortcuts for vowels with accent
+
+**Detects if the caps lock is active. With the caps lock enabled it does the opposite (instead of capital letters it is lowercase and vice versa)**
+
+**Letter "Á" and "á":**
+
+- **Uppercase:** Ctrl + Shift + Alt + a
+- **Lowercase:** Ctrl + Alt + a
+
+**Letter "É" and "é":**
+
+- **Uppercase:** Ctrl + Shift + Alt + e
+- **Lowercase:** Ctrl + Alt + e
+
+**Letter "Í" and "í":**
+
+- **Uppercase:** Ctrl + Shift + Alt + i
+- **Lowercase:** Ctrl + Alt + i
+
+**Letter "Ó" and "ó":**
+
+- **Uppercase:** Ctrl + Shift + Alt + o
+- **Lowercase:** Ctrl + Alt + o,
+
+**Letter "Ú" and "ú":**
+
+- **Uppercase:** Ctrl + Shift + Alt + u
+- **Lowercase:** Ctrl + Alt + u
+
 Made with :heart: by <a href="https://github.com/LautyDev" target="_blank">LautyDev</a>
 
 &#xa0;
