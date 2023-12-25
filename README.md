@@ -43,9 +43,9 @@ In Visual Studio Code: [AutoHotkey Plus](https://marketplace.visualstudio.com/it
 $ git clone https://github.com/LautyDev/Spanish-shortcuts
 ```
 
-## :sparkles: Download
+## :inbox_tray: Download
 
-- [Version 1.0]()
+- [Version 1.0.0](https://github.com/LautyDev/Spanish-shortcuts/releases/download/App/Spanish.shortcuts.exe)
 
 Made with :heart: by <a href="https://github.com/LautyDev" target="_blank">LautyDev</a>
 
