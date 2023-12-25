@@ -90,7 +90,10 @@ $ git clone https://github.com/LautyDev/Spanish-shortcuts
 **Letter "Ó" and "ó":**
 
 - **Uppercase:** Ctrl + Shift + Alt + o
-- **Lowercase:** Ctrl + Alt + o
+  <<<<<<< HEAD
+- # **Lowercase:** Ctrl + Alt + o
+- **Lowercase:** Ctrl + Alt + o,
+  > > > > > > > ed0d355b3061a529544c51dcea71008fae26f226
 
 **Letter "Ú" and "ú":**
 
