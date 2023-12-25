@@ -97,8 +97,7 @@ $ git clone https://github.com/LautyDev/Spanish-shortcuts
 - **Uppercase:** Ctrl + Shift + Alt + u
 - **Lowercase:** Ctrl + Alt + u
 
-Made with :heart: by <a href="https://github.com/LautyDev" target="_blank">LautyDev</a>
-
 &#xa0;
 
 <a href="#top">Back to top</a>
+Made with :heart: by <a href="https://github.com/LautyDev" target="_blank">LautyDev</a>
