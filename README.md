@@ -49,6 +49,10 @@ $ git clone https://github.com/LautyDev/Spanish-shortcuts
 
 ## :video_game: Shortcuts
 
+### Help menu
+
+- Ctrl + Alt + h
+
 ### Shortcuts for the letter "Ñ" and "ñ"
 
 **Detects if the caps lock is active. With the caps lock enabled it does the opposite (instead of capital letters it is lowercase and vice versa)**
@@ -86,7 +90,7 @@ $ git clone https://github.com/LautyDev/Spanish-shortcuts
 **Letter "Ó" and "ó":**
 
 - **Uppercase:** Ctrl + Shift + Alt + o
-- **Lowercase:** Ctrl + Alt + o,
+- **Lowercase:** Ctrl + Alt + o
 
 **Letter "Ú" and "ú":**
 
