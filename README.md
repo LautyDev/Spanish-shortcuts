@@ -99,6 +99,6 @@ $ git clone https://github.com/LautyDev/Spanish-shortcuts
 
 &#xa0;
 
-<a style="href="#top">Back to top</a>
+<a href="#top">Back to top</a>
 <br>
 Made with :heart: by <a href="https://github.com/LautyDev" target="_blank">LautyDev</a>
